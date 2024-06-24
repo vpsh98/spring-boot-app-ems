@@ -1,5 +1,5 @@
 # spring-boot-app-ems
-A spring boot server with CRUD features, show as a employee management system.  
+A spring boot server with CRUD features, shown as a employee management system.  
 
 -This server uses mysql database underneath.  
 -It has an interceptor to track and manage all incoming requests. Tokens extraction can be done in this, with exclusion of login requests.  
